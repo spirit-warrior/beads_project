@@ -2,7 +2,7 @@
 
 ## Intro
 
-We have a large fiberboard plank which was used for about 30 years as the sitting surface for Amma's chair. When Amma's chair was modified in 2024, this piece was left over. This project is about creating beads from this plank which is made of compressed wood fibers.
+We have a large fiberboard plank which was used for about 27 years as the sitting surface for Amma's chair. When Amma's chair was modified in 2024, this piece was left over. This project is about creating beads from this plank which is made of compressed wood fibers.
 
 In the end, the beads will be added to necklaces and bracelets to be sold to support Amma's charities.
 
@@ -18,15 +18,17 @@ When cutting and shaping the material into beads, we definitely want to save and
 
 # Preferred Method
 
-- Stabilize the fiberboard using PC-Petrifier
+- Overview
 
-- Apply topcoat of epoxy resin (or polyurehane) for durability and waterproofing
+  - Stabilize the fiberboard using PC-Petrifier
 
-- Apply each product by dipping the beads. Painting and other methods are impractical for large numbers (hundreds) of beads
+  - Apply topcoat of epoxy resin (or polyurehane) for durability and waterproofing
 
-- Meets the goals for durability, non-toxicity, and easy of use
+  - Apply each product by dipping the beads. Painting and other methods are impractical for large numbers (hundreds) of beads
 
-## Initial preparation
+  - Meets the goals for durability, non-toxicity, and easy of use
+
+## 1 - Initial preparation
 
 - The thickness of the fiberboard is greater than the optimal diameter for beads. Therefore split the fiberboard into thinner sheets before cutting it.
 
@@ -35,7 +37,7 @@ When cutting and shaping the material into beads, we definitely want to save and
 - Size of the drilled hole should be large enough so that it doesn't become clogged during the dipping processes.
 - Sand the beads to smooth any rough edges.
 
-## Application of Hardener - PC-Petrifier
+## 2 - Application of Hardener - PC-Petrifier
 
 - Dipping
 
@@ -51,23 +53,23 @@ When cutting and shaping the material into beads, we definitely want to save and
 
   - Once cured, the beads should feel significantly harder and more durable.
 
-## Application of Topcoat - ArtResin or Polyurethane
+## 3 - Application of Topcoat - ArtResin or Polyurethane
 
 After hardening with PC-Petrifier, next step is to apply a topcoat to enhance durability, water resistance, and aesthetics. ArtResin is preferred but water-based polyurethane is also a good option.
 
-#### About ArtResin Epoxy Resin
+- About ArtResin Epoxy Resin
 
-- Creates a high-gloss, highly durable finish
-- Waterproof
-- Maximum wear-resistant
-- Certified non-toxic
-- More labor involved
+  - Creates a high-gloss, highly durable finish
+  - Waterproof
+  - Maximum wear-resistant
+  - Certified non-toxic
+  - More labor involved
 
 #### Application of ArtResin
 
 - Work in a well-ventilated area
-- String a manageable number of beads onto a piece of fishing line
-- Submerge the bead and fishing line in the resin
+- String a manageable number of beads onto a length of fishing line
+- Submerge the beads and fishing line in the resin
 - Hang the beads and fishing line to dry
 - Use a heat gun or small torch to remove bubbles from the resin surface.
 - Rotate the beads periodically to ensure a more even coat.
